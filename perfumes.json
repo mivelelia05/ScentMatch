@@ -1,0 +1,559 @@
+[
+    {
+      "name": "YSL Black Opium",
+      "family": "Amber Vanilla",
+      "notes": ["vanilla", "coffee", "white flowers"],
+      "similar": ["Carolina Herrera Good Girl", "Jean Paul Gaultier Scandal"],
+      "image": "images/black_opium.png"
+    },
+    {
+      "name": "Ariana Grande Cloud",
+      "family": "Gourmand",
+      "notes": ["lavender", "pear", "whipped cream", "vanilla", "coconut"],
+      "similar": ["Maison Francis Kurkdjian Baccarat Rouge 540", "Burberry Her"],
+      "image": "images/placeholder.png"
+    },
+    {
+      "name": "Maison Francis Kurkdjian Baccarat Rouge 540",
+      "family": "Amber Floral",
+      "notes": ["saffron", "jasmine", "ambergris", "cedar"],
+      "similar": ["Ariana Grande Cloud", "Burberry Her", "Zara Red Temptation"],
+      "image": "images/placeholder.png"
+    },
+    {
+      "name": "Burberry Her",
+      "family": "Fruity Floral",
+      "notes": ["strawberry", "raspberry", "blackberry", "vanilla"],
+      "similar": ["BR540", "Ariana Grande Cloud"],
+      "image": "images/placeholder.png"
+    },
+    {
+      "name": "Valentino Donna Born in Roma",
+      "family": "Floral Amber",
+      "notes": ["black currant", "jasmine", "vanilla bourbon"],
+      "similar": ["YSL Libre", "Good Girl", "Burberry Her"],
+      "image": "images/placeholder.png"
+    },
+    {
+      "name": "Carolina Herrera Good Girl",
+      "family": "Amber Floral",
+      "notes": ["tuberose", "jasmine", "tonka bean", "vanilla"],
+      "similar": ["Black Opium", "Very Good Girl", "Scandal"],
+      "image": "images/good_girl.jpg"
+    },
+    {
+      "name": "Carolina Herrera Very Good Girl",
+      "family": "Fruity Floral",
+      "notes": ["lychee", "red currant", "rose", "vanilla"],
+      "similar": ["Burberry Her", "Born in Roma"],
+      "image": "images/placeholder.png"
+    },
+    {
+      "name": "Kayali Vanilla 28",
+      "family": "Amber Vanilla",
+      "notes": ["vanilla", "tonka bean", "brown sugar"],
+      "similar": ["Sol De Janeiro 71", "Dossier Vanilla Vibes"],
+      "image": "images/placeholder.png"
+    },
+    {
+      "name": "Sol de Janeiro Brazilian Crush 62",
+      "family": "Gourmand",
+      "notes": ["pistachio", "caramel", "almond", "vanilla"],
+      "similar": ["Kayali Vanilla 28", "Sol de Janeiro 71"],
+      "image": "images/placeholder.png"
+    },
+    {
+      "name": "Sol de Janeiro 71 Caramelized Vanilla",
+      "family": "Gourmand",
+      "notes": ["caramel", "vanilla", "sea salt", "cocoa"],
+      "similar": ["Kayali Vanilla 28", "SDJ 62"],
+      "image": "images/placeholder.png"
+    },
+    {
+      "name": "Dior Sauvage",
+      "family": "Aromatic Fougere",
+      "notes": ["bergamot", "pepper", "ambroxan"],
+      "similar": ["Bleu de Chanel", "Versace Dylan Blue"],
+      "image": "images/placeholder.png"
+    },
+    {
+      "name": "Bleu de Chanel",
+      "family": "Woody Aromatic",
+      "notes": ["citrus", "pepper", "cedar", "amber"],
+      "similar": ["Dior Sauvage", "Versace Dylan Blue"],
+      "image": "images/placeholder.png"
+    },
+    {
+      "name": "Versace Dylan Blue",
+      "family": "Aromatic Fougere",
+      "notes": ["water notes", "bergamot", "patchouli"],
+      "similar": ["Sauvage", "Bleu de Chanel"],
+      "image": "images/placeholder.png"
+    },
+    {
+      "name": "Dior J'adore",
+      "family": "Floral",
+      "notes": ["ylang-ylang", "rose", "jasmine"],
+      "similar": ["Chanel Gabrielle", "Gucci Bloom"],
+      "image": "images/placeholder.png"
+    },
+    {
+      "name": "Gucci Bloom",
+      "family": "White Floral",
+      "notes": ["jasmine", "tuberose", "rangoon creeper"],
+      "similar": ["Dior J'adore", "Chanel Gabrielle"],
+      "image": "images/placeholder.png"
+    },
+    {
+      "name": "Chanel Coco Mademoiselle",
+      "family": "Amber Floral",
+      "notes": ["orange", "rose", "patchouli", "vanilla"],
+      "similar": ["Miss Dior", "Lancôme La Vie Est Belle"],
+      "image": "images/placeholder.png"
+    },
+    {
+      "name": "Lancôme La Vie Est Belle",
+      "family": "Gourmand Floral",
+      "notes": ["iris", "patchouli", "praline", "vanilla"],
+      "similar": ["Coco Mademoiselle", "YSL Mon Paris"],
+      "image": "images/placeholder.png"
+    },
+    {
+      "name": "YSL Mon Paris",
+      "family": "Fruity Floral",
+      "notes": ["strawberry", "raspberry", "pear", "vanilla"],
+      "similar": ["Burberry Her", "La Vie Est Belle"],
+      "image": "images/placeholder.png"
+    },
+    {
+      "name": "Tom Ford Lost Cherry",
+      "family": "Amber Floral",
+      "notes": ["cherry", "almond", "vanilla"],
+      "similar": ["Kayali Lovefest Burning Cherry", "Zara Cherry Smoothie"],
+      "image": "images/placeholder.png"
+    },
+    {
+      "name": "Tom Ford Tobacco Vanille",
+      "family": "Amber Spicy",
+      "notes": ["vanilla", "tobacco", "dried fruits"],
+      "similar": ["Replica By the Fireplace", "Initio Absolute Aphrodisiac"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Tom Ford Oud Wood",
+      "family": "Woody Spicy",
+      "notes": ["oud", "rosewood", "cardamom"],
+      "similar": ["Initio Oud for Greatness", "Dior Oud Ispahan"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "MFK Gentle Fluidity Gold",
+      "family": "Amber Vanilla",
+      "notes": ["vanilla", "juniper berries", "amber"],
+      "similar": ["Kayali Vanilla 28", "Ariana Grande Cloud"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "MFK Gentle Fluidity Silver",
+      "family": "Aromatic",
+      "notes": ["juniper", "coriander", "musk"],
+      "similar": ["Bleu de Chanel", "Sauvage"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Initio Oud for Greatness",
+      "family": "Woody Spicy",
+      "notes": ["oud", "saffron", "patchouli"],
+      "similar": ["Oud Wood", "Dior Oud Ispahan"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Initio Rehab",
+      "family": "Woody Aromatic",
+      "notes": ["lavender", "vanilla", "sandalwood"],
+      "similar": ["Memo Irish Leather", "MFK Aqua Vitae"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Dossier Ambery Vanilla",
+      "family": "Dupe - Vanilla Floral",
+      "notes": ["vanilla", "jasmine", "tonka bean"],
+      "similar": ["YSL Black Opium"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Dossier Fruity Jasmine",
+      "family": "Dupe - Floral",
+      "notes": ["jasmine", "peach", "citrus"],
+      "similar": ["Dior J'adore"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Zara Red Temptation",
+      "family": "Dupe - Amber Floral",
+      "notes": ["saffron", "jasmine", "amber"],
+      "similar": ["BR540"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Zara Ebony Wood",
+      "family": "Woody Spicy",
+      "notes": ["pepper", "cloves", "cedar"],
+      "similar": ["Tom Ford Oud Wood"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Alt Crystal 23",
+      "family": "Amber Floral",
+      "notes": ["saffron", "amber", "jasmine"],
+      "similar": ["BR540", "Cloud"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Prada Paradoxe",
+      "family": "Floral Amber",
+      "notes": ["pear", "neroli", "musk", "vanilla"],
+      "similar": ["Born in Roma", "Good Girl"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Prada L'Homme",
+      "family": "Floral Woody",
+      "notes": ["iris", "neroli", "cedar"],
+      "similar": ["Dior Homme Intense"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Dior Homme Intense",
+      "family": "Woody Floral",
+      "notes": ["iris", "cedar", "lavender"],
+      "similar": ["Prada L'Homme"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Chanel Chance Eau Tendre",
+      "family": "Fruity Floral",
+      "notes": ["grapefruit", "jasmine", "musk"],
+      "similar": ["Marc Jacobs Daisy"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Marc Jacobs Daisy",
+      "family": "Fresh Floral",
+      "notes": ["violet", "strawberry", "jasmine"],
+      "similar": ["Chance Eau Tendre"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Armaf Club de Nuit Intense Man",
+      "family": "Woody Spicy",
+      "notes": ["lemon", "birch", "pineapple"],
+      "similar": ["Creed Aventus"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Creed Aventus",
+      "family": "Chypre Fruity",
+      "notes": ["pineapple", "birch", "musk"],
+      "similar": ["CDNIM"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Jean Paul Gaultier Scandal",
+      "family": "Honey Floral",
+      "notes": ["honey", "gardenia", "blood orange"],
+      "similar": ["Black Opium", "Good Girl"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Jean Paul Gaultier Le Male",
+      "family": "Amber Fougere",
+      "notes": ["vanilla", "mint", "lavender"],
+      "similar": ["Ultra Male", "Versace Eros"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Jean Paul Gaultier Ultra Male",
+      "family": "Sweet Spicy",
+      "notes": ["pear", "vanilla", "cinnamon"],
+      "similar": ["Le Male", "Versace Eros Flame"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Versace Eros",
+      "family": "Aromatic Fougere",
+      "notes": ["mint", "vanilla", "apple"],
+      "similar": ["Ultra Male", "One Million"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Paco Rabanne 1 Million",
+      "family": "Sweet Spicy",
+      "notes": ["cinnamon", "leather", "amber"],
+      "similar": ["Eros", "Invictus"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Paco Rabanne Invictus",
+      "family": "Fresh Aquatic",
+      "notes": ["sea notes", "grapefruit"],
+      "similar": ["Dylan Blue"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Replica By the Fireplace",
+      "family": "Woody Vanilla",
+      "notes": ["chestnut", "vanilla", "clove"],
+      "similar": ["Tobacco Vanille", "Jazz Club"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Replica Jazz Club",
+      "family": "Woody Spicy",
+      "notes": ["rum", "tobacco", "pink pepper"],
+      "similar": ["By the Fireplace"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Replica Lazy Sunday Morning",
+      "family": "Fresh Musk",
+      "notes": ["musk", "pear", "lily of the valley"],
+      "similar": ["Clean Skin"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Kayali Lovefest Burning Cherry",
+      "family": "Amber Woody",
+      "notes": ["cherry", "raspberry", "praline"],
+      "similar": ["Lost Cherry"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Kayali Eden Juicy Apple",
+      "family": "Fruity Floral",
+      "notes": ["apple", "black currant", "lychee"],
+      "similar": ["Marc Jacobs Daisy Love"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Glossier You",
+      "family": "Musk",
+      "notes": ["musk", "iris", "ambrette"],
+      "similar": ["Replica Lazy Sunday Morning"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Clean Skin",
+      "family": "Soft Musk",
+      "notes": ["musk", "vanilla", "lily"],
+      "similar": ["Glossier You"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Narciso Rodriguez For Her",
+      "family": "Musk Floral",
+      "notes": ["musk", "rose", "peach"],
+      "similar": ["Glossier You"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Narciso Rodriguez Musc Noir",
+      "family": "Musk Floral",
+      "notes": ["plum", "musk", "heliotrope"],
+      "similar": ["NR For Her"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Jo Malone Peony & Blush Suede",
+      "family": "Floral",
+      "notes": ["peony", "red apple", "suede"],
+      "similar": ["Marc Jacobs Daisy"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Jo Malone Wood Sage & Sea Salt",
+      "family": "Fresh Woody",
+      "notes": ["sea salt", "sage", "ambrette"],
+      "similar": ["Maison Margiela Sailing Day"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Montale Intense Cafe",
+      "family": "Amber Vanilla",
+      "notes": ["rose", "coffee", "vanilla"],
+      "similar": ["Black Opium", "MFK Oud Satin Mood"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Montale Roses Musk",
+      "family": "Rose Musk",
+      "notes": ["rose", "musk"],
+      "similar": ["NR For Her"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Killian Love Don't Be Shy",
+      "family": "Gourmand Floral",
+      "notes": ["marshmallow", "vanilla", "orange blossom"],
+      "similar": ["Ariana Grande Thank U Next"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Killian Angels' Share",
+      "family": "Amber Vanilla",
+      "notes": ["cinnamon", "tonka bean", "vanilla"],
+      "similar": ["Tom Ford Tobacco Vanille"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Sol De Janeiro Cheirosa 40",
+      "family": "Fruity Floral",
+      "notes": ["plum", "black amber", "vanilla"],
+      "similar": ["SDJ 68"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Sol De Janeiro Cheirosa 68",
+      "family": "Floral Fruity",
+      "notes": ["pink dragonfruit", "jasmine", "musk"],
+      "similar": ["Gucci Flora Gorgeous Gardenia"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Armani Code",
+      "family": "Amber Spicy",
+      "notes": ["orange blossom", "honey", "vanilla"],
+      "similar": ["Good Girl"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Armani My Way",
+      "family": "Floral",
+      "notes": ["orange blossom", "vanilla", "tuberose"],
+      "similar": ["Gucci Bloom"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Chloe Eau de Parfum",
+      "family": "Floral",
+      "notes": ["peony", "rose", "cedar"],
+      "similar": ["Chanel Chance Eau Tendre"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Chloe Nomade",
+      "family": "Chypre Floral",
+      "notes": ["oakmoss", "mirabelle", "freesia"],
+      "similar": ["Dior J'adore"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Victoria's Secret Bombshell",
+      "family": "Fresh Fruity",
+      "notes": ["passion fruit", "grapefruit", "vanilla orchid"],
+      "similar": ["Juicy Couture Viva La Juicy"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Juicy Couture Viva La Juicy",
+      "family": "Sweet Floral",
+      "notes": ["berries", "vanilla", "jasmine"],
+      "similar": ["Bombshell"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "YSL Libre",
+      "family": "Aromatic Floral",
+      "notes": ["lavender", "orange blossom", "vanilla"],
+      "similar": ["Born in Roma"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "YSL Libre Intense",
+      "family": "Amber Floral",
+      "notes": ["lavender", "vanilla", "tonka"],
+      "similar": ["Libre", "Good Girl"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Chanel No. 5",
+      "family": "Aldehydic Floral",
+      "notes": ["aldehydes", "ylang-ylang", "vanilla"],
+      "similar": ["Coco Mademoiselle"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Chanel Gabrielle",
+      "family": "White Floral",
+      "notes": ["jasmine", "orange blossom", "ylang-ylang"],
+      "similar": ["J'adore"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Armani Si",
+      "family": "Chypre Fruity",
+      "notes": ["black currant", "rose", "vanilla"],
+      "similar": ["La Vie Est Belle"],
+      "image": "images/placeholder.png"
+    },
+  
+    {
+      "name": "Armani Si Intense",
+      "family": "Amber Vanilla",
+      "notes": ["black currant syrup", "vanilla"],
+      "similar": ["Si"],
+      "image": "images/placeholder.png"
+    }
+  ]
+  
